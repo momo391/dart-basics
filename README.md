@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Why ?
+
+- this repo for me learning dart language as a starting point to learn flutter.
